@@ -1,5 +1,0 @@
-used lanugaue :python
-libraries used : playsound,os,schedule
-
-
-for ever startup we should run this program run  this in windows+r(shell:startup) and paste t he shortccut of the start there
